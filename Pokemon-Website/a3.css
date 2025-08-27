@@ -1,0 +1,104 @@
+
+body {
+    background-image: url("p1.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(255, 174, 0);
+    font-weight: bold;
+    margin: 0;
+    font-size: 50px;
+    border-bottom: solid;
+    border-color: black;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: rgb(255, 174, 0);
+    position: sticky;
+    top:0;
+    z-index: 2;
+}
+li{
+    text-align: center;
+    display: inline;
+}
+li a{
+    display:block;
+    float: left;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.active{
+  background-color:rgba(247, 3, 3, 1);
+}
+li a:hover:not(.active){
+  background-color: rgb(252, 202, 109);
+}
+
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+label{
+    float: left;
+    width:20%;
+    padding-top: 20px;
+    padding-left: 12px;
+}
+input[type=text], select {
+  float: left;
+  width:75%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  float: right;
+  
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.ques{
+  text-align: initial;
+  float: left;
+  width:75%;
+  height:200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  overflow: hidden;
+  padding: 20px;
+}

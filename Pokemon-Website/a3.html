@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="a3.css">
+    </head>
+<body>
+    <h1>Pokemon</h1>
+    <ul>
+        <li><a href="a1.html">Home</a></li>
+        <li><a href="a2.html">Pokedex</a></li>
+        <li><a class="active" href="a3.html">FAQ</a></li>
+        <li><a href="#">About</a></li>
+    </ul>
+<h2>FAQ Form</h2>
+
+<div>
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="question">Question</label>
+    <textarea class="ques" id="question" name="question" placeholder="Write something.." style="height:200px"></textarea>
+  
+    <input type="submit" value="Submit">
+  </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+
+body {
+    background-image: url("p1.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(255, 174, 0);
+    font-weight: bold;
+    margin: 0;
+    font-size: 50px;
+    border-bottom: solid;
+    border-color: black;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: rgb(255, 174, 0);
+    position: sticky;
+    top:0;
+    z-index: 2;
+}
+li{
+    text-align: center;
+    display: inline;
+}
+li a{
+    display:block;
+    float: left;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.active{
+  background-color:rgba(247, 3, 3, 1);
+}
+li a:hover:not(.active){
+  background-color: rgb(252, 202, 109);
+}
+
+
+p.one{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: white ;
+
+    padding: 10px;
+    color: rgb(255, 165, 0);
+    text-align: justify;
+    text-indent: 15px;
+    letter-spacing: 1.5px;
+    line-height: 1.2;
+    background-color:rgba(247, 3, 3, 0.6);
+  }
+  p.note{
+    width: max-content;
+    border-left-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    background-color:rgba(76, 152, 252, 0.6);
+    color: cornsilk;
+    padding: 15px;
+    
+  }
+  i.material-icons{
+    padding-right: 10px;
+    vertical-align: middle;
+  }
