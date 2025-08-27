@@ -1,0 +1,369 @@
+{
+    "movies":[
+        {
+            
+            "id":1,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6662/956662-v",
+            "title":"Angrezi Medium",
+            "description":"A very good Movie by Irfan Khan"
+        },
+        {
+            
+            "id":2,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+            "title":"Baaghi 3",
+            "description":"A Action Movie, full of fighting scene"
+        },
+        {
+            
+            "id":2,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6662/956662-v",
+            "title":"Angrezi Medium",
+            "description":"A very good Movie by Irfan Khan"
+        },
+        {
+            "id":3,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+            "title":"Baaghi 3",
+            "description":"A Action Movie, full of fighting scene"
+        },{
+            "id":4,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6662/956662-v",
+            "title":"Angrezi Medium",
+            "description":"A very good Movie by Irfan Khan"
+        },
+        {
+            "id":5,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+            "title":"Baaghi 3",
+            "description":"A Action Movie, full of fighting scene"
+        },{
+            "id":6,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6662/956662-v",
+            "title":"Angrezi Medium",
+            "description":"A very good Movie by Irfan Khan"
+        },
+        {
+            "id":7,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+            "title":"Baaghi 3",
+            "description":"A Action Movie, full of fighting scene"
+        },{
+            "id":8,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6662/956662-v",
+            "title":"Angrezi Medium",
+            "description":"A very good Movie by Irfan Khan"
+        },
+        {
+            "id":9,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+            "title":"Baaghi 3",
+            "description":"A Action Movie, full of fighting scene"
+        },{
+            "id":10,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6662/956662-v",
+            "title":"Angrezi Medium",
+            "description":"A very good Movie by Irfan Khan"
+        },
+        {
+            "id":11,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+            "title":"Baaghi 3",
+            "description":"A Action Movie, full of fighting scene"
+        },{
+            "id":12,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6662/956662-v",
+            "title":"Angrezi Medium",
+            "description":"A very good Movie by Irfan Khan"
+        },
+        {
+            "id":13,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+            "title":"Baaghi 3",
+            "description":"A Action Movie, full of fighting scene"
+        },{
+            "id":14,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6662/956662-v",
+            "title":"Angrezi Medium",
+            "description":"A very good Movie by Irfan Khan"
+        },
+        {
+            "id":15,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6536/846536-v",
+            "title":"Baaghi 3",
+            "description":"A Action Movie, full of fighting scene"
+        }
+    ],
+    "tv":[
+        {
+            "id":1,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6770/826770-v",
+            "title":"Annupama",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":2,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9261/889261-v",
+            "title":"Ye Rista kya Kehlata h",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":3,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6770/826770-v",
+            "title":"Annupama",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":4,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9261/889261-v",
+            "title":"Ye Rista kya Kehlata h",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":5,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6770/826770-v",
+            "title":"Annupama",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":6,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9261/889261-v",
+            "title":"Ye Rista kya Kehlata h",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":7,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6770/826770-v",
+            "title":"Annupama",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":8,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9261/889261-v",
+            "title":"Ye Rista kya Kehlata h",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":9,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6770/826770-v",
+            "title":"Annupama",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":10,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9261/889261-v",
+            "title":"Ye Rista kya Kehlata h",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":11,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6770/826770-v",
+            "title":"Annupama",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":12,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9261/889261-v",
+            "title":"Ye Rista kya Kehlata h",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":13,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6770/826770-v",
+            "title":"Annupama",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":14,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9261/889261-v",
+            "title":"Ye Rista kya Kehlata h",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":15,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6770/826770-v",
+            "title":"Annupama",
+            "description":"A popular TV Show"
+        },
+        {
+            "id":16,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9261/889261-v",
+            "title":"Ye Rista kya Kehlata h",
+            "description":"A popular TV Show"
+        }
+    ],
+    "news":[
+        {
+            "id":1,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1709/971709-h",
+            "title":"Aaj Tak",
+            "description":"Watch Live News"
+        },
+        {
+            "id":2,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1705/971705-h",
+            "title":"ABP News",
+            "description":"Watch Live News"
+        },
+        {
+            "id":3,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1709/971709-h",
+            "title":"Aaj Tak",
+            "description":"Watch Live News"
+        },
+        {
+            "id":4,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1705/971705-h",
+            "title":"ABP News",
+            "description":"Watch Live News"
+        },
+        {
+            "id":5,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1709/971709-h",
+            "title":"Aaj Tak",
+            "description":"Watch Live News"
+        },
+        {
+            "id":6,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1705/971705-h",
+            "title":"ABP News",
+            "description":"Watch Live News"
+        },
+        {
+            "id":7,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1709/971709-h",
+            "title":"Aaj Tak",
+            "description":"Watch Live News"
+        },
+        {
+            "id":8,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1705/971705-h",
+            "title":"ABP News",
+            "description":"Watch Live News"
+        },
+        {
+            "id":9,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1709/971709-h",
+            "title":"Aaj Tak",
+            "description":"Watch Live News"
+        },
+        {
+            "id":10,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1705/971705-h",
+            "title":"ABP News",
+            "description":"Watch Live News"
+        },
+        {
+            "id":11,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1709/971709-h",
+            "title":"Aaj Tak",
+            "description":"Watch Live News"
+        },
+        {
+            "id":12,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1705/971705-h",
+            "title":"ABP News",
+            "description":"Watch Live News"
+        }
+    ],
+    "sports":[
+        {
+            "id":13,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/8420/978420-h",
+            "title":"Punjab Vs Delhi",
+            "description":"A cricket Match"
+        },
+        {
+            "id":14,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7539/977539-h",
+            "title":"MI vs CSK",
+            "description":"A cricket Match"
+        },
+        {
+            "id":15,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/8420/978420-h",
+            "title":"Punjab Vs Delhi",
+            "description":"A cricket Match"
+        },
+        {
+            "id":16,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7539/977539-h",
+            "title":"MI vs CSK",
+            "description":"A cricket Match"
+        },
+        {
+            "id":17,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/8420/978420-h",
+            "title":"Punjab Vs Delhi",
+            "description":"A cricket Match"
+        },
+        {
+            "id":18,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7539/977539-h",
+            "title":"MI vs CSK",
+            "description":"A cricket Match"
+        },
+        {
+            "id":19,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/8420/978420-h",
+            "title":"Punjab Vs Delhi",
+            "description":"A cricket Match"
+        },
+        {
+            "id":20,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7539/977539-h",
+            "title":"MI vs CSK",
+            "description":"A cricket Match"
+        },
+        {
+            "id":21,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/8420/978420-h",
+            "title":"Punjab Vs Delhi",
+            "description":"A cricket Match"
+        },
+        {
+            "id":22,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7539/977539-h",
+            "title":"MI vs CSK",
+            "description":"A cricket Match"
+        },
+        {
+            "id":23,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/8420/978420-h",
+            "title":"Punjab Vs Delhi",
+            "description":"A cricket Match"
+        },
+        {
+            "id":24,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7539/977539-h",
+            "title":"MI vs CSK",
+            "description":"A cricket Match"
+        }
+
+    ],
+    "header":[
+        {
+            "id":1,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2886/892886-h",
+            "title":"Tanhaji",
+            "description":"A great Historic Movie describing the greatness of Tanhaji."
+        },
+        {
+            "id":2,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9701/979701-h",
+            "title":"Highlight: DC vs PBKS",
+            "description":"A great match between DC and PBKS."
+            
+        },
+        {
+            "id":3,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1527/571527-h",
+            "title":"Mission Mangal",
+            "description":"A great achievment by ISRO"
+        }
+    ],
+    "users":[
+    ]
+    
+
+}
