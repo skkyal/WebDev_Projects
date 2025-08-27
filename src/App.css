@@ -1,0 +1,306 @@
+/*Nav Bar*/
+.vidStar{
+  cursor:pointer;
+  position: absolute;
+  color:white;
+  top:10px;
+  left:10px;
+  z-index:5;
+  padding-left:20px;
+  font-size: 2.0rem;
+}
+.navbar{
+  position: fixed;
+  top:0;
+  height: 11vh;
+  width:100%;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(4, 3, 43);
+}
+.navsignin{
+  color: rgb(197, 197, 197);
+  cursor: pointer;
+  padding:0 60px;
+  font-size: 1.2rem;
+}
+.navsignin:hover{
+  color: white;
+}
+.logo{
+  color: white;
+  padding:0 0 0 60px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.navlist ul{
+  margin:0;
+  padding:0;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.navlist ul li{
+  list-style-type: none;
+  color: rgb(197, 197, 197);
+  cursor: pointer;
+  padding:0 0 0 30px;
+  font-size: 1.2rem;
+}
+.navlist ul li:hover{
+  color: white;
+}
+.search{
+  border-width:0 0 2px 0;
+  border-color:rgb(197, 197, 197);;
+  color:rgb(197, 197, 197);
+  border-style: solid;
+  font-size: 1.2rem;
+  margin-right:40px;
+}
+.search input{
+  background-color: transparent;
+  border:0;
+  outline: 0;
+  padding: 0 10px 7px 0;
+  margin:0;
+}
+.search i{
+  color: rgb(197, 197, 197);
+  font-size: 1rem;
+}
+.fa-user-circle{
+  color: rgb(197, 197, 197);
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.fa-user-circle:hover{
+  color:white;
+}
+
+/*footer*/
+.footer{
+  display:flex;
+  align-items:center;
+  justify-content:space-around;
+  background-color:rgb(4, 3, 43);
+  color:white;
+  padding:20px 0px;
+}
+.footer-icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  padding: 0 10px;
+  z-index: 2;
+}
+.footer-message{
+  text-align: center;
+  font-size: 1.0rem;
+}
+
+/*Home Page*/
+.image1-container{
+  display: flex;
+  align-items: center;
+  /*margin-top:11vh;*/
+  background-image: linear-gradient(to left,rgba(1, 1, 92, 0.432) 0%,rgb(0, 0, 0) 60%, rgb(0,0,0) 100%) ,url(/src/images/image2.jpg);
+  background-blend-mode:multiply;
+  background-size:cover;
+  height:70vh;
+  width:100%;
+  color:white; 
+}
+.image2-container{
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  background-image: linear-gradient(to right,rgba(1, 1, 92, 0.432) 0%,rgb(0, 0, 0) 60%, rgb(0,0,0) 100%) ,url(/src/images/image3.jpg);
+  background-blend-mode:multiply;
+  background-size:contain;
+  background-position: left bottom;
+  height:70vh;
+  color:white; 
+}
+.image3-container{
+  display: flex;
+  align-items: center;
+  background-image: linear-gradient(to left,rgba(1, 1, 92, 0.432) 0%,rgb(0, 0, 0) 60%, rgb(0,0,0) 100%) ,url(/src/images/image4.jpg);
+  background-blend-mode:multiply;
+  background-size:contain;
+  height:70vh;
+  width:100%;
+  color:white; 
+}
+.image4-container{
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  background-image: linear-gradient(to right,rgba(1, 1, 92, 0.432) 0%,rgb(0, 0, 0) 60%, rgb(0,0,0) 100%) ,url(/src/images/image5.jpg);
+  background-blend-mode:multiply;
+  background-size:contain;
+  background-position: left bottom;
+  height:70vh;
+  color:white; 
+}
+.button{
+  width: max-content;
+  background-color: rgb(12, 95, 248);
+  color: white;
+  border-radius: 2px;
+  padding: 15px 100px;
+  cursor: pointer;
+  margin: 20px 70px;
+}
+.button:hover{
+  background-color: rgb(8, 70, 184);
+}
+
+/*Login Page*/
+.login-page{
+  background: url(/src/images/signin.jpg),rgba(0, 0, 0, 0.808);
+  background-blend-mode:multiply;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.form-container{
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 30%;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form-header{
+  font-size: 2.0rem;
+  float: left;
+  padding: 0px 15px 30px 15px;
+}
+.login-form{
+  align-content: center;
+  display:block;
+  padding:10px;
+}
+.form-detail{
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border-width: 0;
+  border-color:red;
+  border-radius: 4px;
+  margin: 15px 0 0 0;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 1.00rem;
+}
+.form-error{
+  text-align: left;
+  float: left;
+  width: 100%;
+  font-size: 0.8rem;
+  color:red;
+}
+.form-button{
+  outline: 0;
+  background: #031b4e;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  margin: 15px 0 0 0;
+  font-size: 1.00rem;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.form-button:hover,.form-button:active,.form-button:focus {
+  background: #021030;
+}
+
+.login-message{
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 0.8rem;
+}
+.login-message a {
+  color: #031b4e;
+  text-decoration: none;
+}
+
+/*DashBoard*/
+.basic{
+  background-color: rgb(5, 1, 22);
+}
+.basicheading{
+  color: white;
+  margin-left:25px;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+.carouselitem{
+  display: flex;
+  margin:50px;
+  border-radius: 30px;
+  justify-content: flex-end;
+  background-blend-mode:multiply;
+  background-size:contain;
+  background-repeat: no-repeat;
+  align-items: center;
+  overflow: hidden;
+  height:50vh;
+}
+.carouselitem img{
+  height: 100%;
+}
+.carouselitem div{
+  float:right;
+  color:white;
+  padding-right:10%;
+}
+.listitem{
+  position:relative;
+  cursor:pointer;
+  margin:15px;
+  border-radius: 20px;
+  width:180px;
+  height: 240px ;
+  overflow: hidden !important;
+}
+.listitem-2{
+  position: relative;
+  cursor:pointer;
+  margin:15px;
+  border-radius: 20px;
+  width:280px;
+  height: 142.13px ;
+  overflow: hidden !important  ;
+}
+.listitemdetail{
+  padding: 20px 5px 0 5px;
+  position: absolute;
+  top:0px;
+  width: 100%;
+  height:100%;
+  color: #ffffff;
+  text-align: center;
+  background-color: #000000ad;
+}
+.fa-share-alt{
+  position: absolute;
+  bottom:10px;
+  right:10px;
+  font-size: 1.2rem;
+}
+.watchlist{
+  position: absolute;
+  bottom:10px;
+  left:10px;
+  font-size: 0.7rem;
+}
